@@ -6,8 +6,8 @@
 
 ## Basics
 
-* [Who am I?](pages/whoami.md)
-* [What's my role](pages/role.md)
+* [Who am I?](basics/whoami.md)
+* [What's my role](basics/role.md)
 
 ## Now the real stuff
 
@@ -17,7 +17,12 @@
   * [What we do together](#top)
   * [My schedule](#top)
 
----
+* [Templates](#top)
+  * [Getting to know you](#top)
+  * [Regular syncs & 1:1's](#top)
+  * [Reviews & Appraisals](#top)
+
+## Acknowledgements
 
 * [Thanks](#top)
 * [Credits](#top)
