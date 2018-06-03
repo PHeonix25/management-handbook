@@ -1,3 +1,5 @@
 # What's my role
 
-I'm your manager silly!
+More coming soon!
+
+Hint: This is where I'm up to :)
