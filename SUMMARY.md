@@ -7,7 +7,7 @@
 ## Basics
 
 * [Who am I?](basics/whoami.md)
-* [What's my role](basics/role.md)
+* [What's my role?](basics/role.md)
 
 ## Now the real stuff
 
