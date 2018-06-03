@@ -26,7 +26,9 @@ You can check when I last updated this over on [GitHub](https://github.com/PHeon
 
 ![](https://forthebadge.com/images/badges/no-ragrets.svg)
 
-I've been holding onto this document in draft form for far too long; it's time to _just ship it_! :shipit: It will change over time, as I learn, develop and change my style. While I don't expect it to change often, I'm sure there will be constant tweaks.
+I've been holding onto this document in draft form for far too long; it's time to _just ship it_! <img src="https://hermens.com.au/assets/shipit.png" style="width:1rem" alt="Shipit Squirrel"/>
+
+This book will change over time, as I learn, develop and change my style. While I don't expect it to change often, I'm sure there will be constant tweaks.
 
 ![](https://forthebadge.com/images/badges/uses-git.svg)
 
