@@ -12,7 +12,7 @@
 ## Now the real stuff
 
 * [How I work](#top)
-  * [What I do](#top)
+  * [What I do](realstuff/whatido.md)
   * [What I expect](#top)
   * [What we do together](#top)
   * [My schedule](#top)
@@ -24,5 +24,5 @@
 
 ## Acknowledgements
 
-* [Thanks](#top)
+* [Thanks](THANKS.md)
 * [Credits](#top)
