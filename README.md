@@ -26,7 +26,7 @@ You can check when I last updated this over on [GitHub](https://github.com/PHeon
 
 ![No Ragrets](https://forthebadge.com/images/badges/no-ragrets.svg)
 
-<!-- markdownlint-disable MD033 --> 
+<!-- markdownlint-disable MD033 -->
 I've been holding onto this document in draft form for far too long; it's time to _just ship it_! <img height="40px" src="https://hermens.com.au/assets/shipit.png" alt="Shipit Squirrel"/>
 <!-- markdownlint-enable MD033 -->
 
