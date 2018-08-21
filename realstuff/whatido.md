@@ -33,7 +33,7 @@ My days normally start with a coffee and a gentle walk into the office. I delibe
 
 Outside of work, I have quite a few "hobbies" that interest me:
 
-First amongst these is **PC gaming**: online team FPS games, like Overwatch or Counter-Strike really help me to blow off steam, and put my headphones on and just have some fun.
+First amongst these is **PC gaming**: online team FPS games, like Overwatch or Counter-Strike really help me to blow off steam, and put my headphones on and just have some fun for an hour or two. On the other hand, if I want to destroy a whole weekend, and I have the time/space, then I can absolutely lose myself in games like Prision Architect, Cities Skylines, or other "world-builder"-type games.
 
 This is closely followed by **contributing to open-source** projects. Sometimes this is development (and helping me to make sure that I don't lose the hard-earned skill of development in C#), but these days, more often than not, this is documentation, guidelines, or project management skills.
 
@@ -41,4 +41,4 @@ Finally, I love **spending time with my family**, and I love spending time with 
 
 ---
 
-If I'm not doing any of the above, you'll probably find me on Slack, or on [Twitter](https://twitter.com/phermens), or sitting in front of a TV-series with my wife, or sleeping, or possibly even at the gym - although I'm still struggling with motivation for that last one ;)
+If I'm not doing any of the above, you'll probably find me on Slack, or on [Twitter](https://twitter.com/phermens), or sitting in front of a TV-series with my wife, or enjoying a good [gin/whisky/beer] with friends, or sleeping, or possibly/maybe/hopefully even at the gym - although I'm still struggling with motivation for that last one ;)
