@@ -12,8 +12,8 @@
 ## Now the real stuff
 
 * [How I work](#top)
-  * [What I do](#top)
-  * [What I expect](#top)
+  * [What I do](realstuff/whatido.md)
+  * [What I expect](realstuff/whatiexpect.md)
   * [What we do together](#top)
   * [My schedule](#top)
 
