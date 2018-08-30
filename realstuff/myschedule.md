@@ -13,14 +13,17 @@ I try to leave the ends of my days free (from 5pm onward), as it gives me a mome
 ## So, let's break it down
 
 For the purposes of this article, I've color coded what a typical week looks like for me:
-![Time Management](TimeManagement.png)
-> Yellow is time set aside for working with my peers or working on team projects.\
-> Blue is "me time"; I've chosen what goes in those slots, and it's sometimes strategic, sometimes operational.\
-> Red is an appraisal of someone reporting to me, right there in the middle on Wednesday.\
-> Gray is my blocked out lunch hour (as I described in [what I do](whatido.md)).\
-> Light blue are interviewing slots, and when there's a dark blue overlapping, that's when I've accepted the interview.\
-> Purple are my regular syncs (again, as described in [what I do](whatido.md)).\
-> Green are demos or presentations that I need to attend, or present.
+<!-- markdownlint-disable MD033 -->
+<img src="TimeManagement.png" alt="Calendar Snapshot" style="max-width:100%; max-height:auto" />
+<!-- markdownlint-enable MD033 -->
+
+* `Yellow` is time set aside for working with my peers or working on team projects.
+* `Blue` is "me time"; I've chosen what goes in those slots, and it's sometimes strategic, sometimes operational.
+* `Red` is an appraisal of someone reporting to me, right there in the middle on Wednesday.
+* `Gray` is my blocked out lunch hour (as I described in [what I do](whatido.md)).
+* `Light Blue` are interviewing slots, and when there's a dark blue overlapping, that's when I've accepted the interview.
+* `Purple` sessions are my regular syncs (again, as described in [what I do](whatido.md)).
+* `Green` sessions are demonstrations or presentations that I need to attend, or present.
 
 Now don't get me wrong, I don't normally color code my weeks like this (and in fact, in doing this it sent out a bunch of "meeting updates" to everyone involved, so I had to apologise for that), but I wanted to find a way that I could make this easier to digest for someone looking from a higher level, and to make it easier to explain.
 
