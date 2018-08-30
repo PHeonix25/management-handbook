@@ -17,6 +17,8 @@ For the purposes of this article, I've color coded what a typical week looks lik
 <img class="timemanagement" src="TimeManagement.png" alt="Calendar Snapshot" />
 <!-- markdownlint-enable MD033 -->
 
+> _Sorry, in Markdown+GitBook, there doesn't seem to be much control on the size of an image after they render the Markdown for me. They strip out all the standard tricks that I know. For now, feel free to right-click, "Save as", or "open in a new tab" if you want to see a bigger version._
+
 * `Yellow` is time set aside for working with my peers or working on team projects.
 * `Blue` is "me time"; I've chosen what goes in those slots, and it's sometimes strategic, sometimes operational.
 * `Red` is an appraisal of someone reporting to me, right there in the middle on Wednesday.
@@ -27,12 +29,17 @@ For the purposes of this article, I've color coded what a typical week looks lik
 
 Now don't get me wrong, I don't normally color code my weeks like this (and in fact, in doing this it sent out a bunch of "meeting updates" to everyone involved, so I had to apologise for that), but I wanted to find a way that I could make this easier to digest for someone looking from a higher level, and to make it easier to explain.
 
-You might notice in this particular week I have two major events:
+You might notice in this particular week I have a few significant events:
 
-1. Thursday, and
-2. Friday afternoon
+1. Tuesday there's lots of yellow,
+2. Thursday, and
+3. Friday afternoon
 
 Let's break them down a little futher:
+
+### Tuesday
+
+I'm currently working in a Tech Management team that does two-week sprints, just like our teams - yay; solidarity! We have our stand-ups at 10am daily (shown by the yellow bar across the mornings), and every two weeks we have a "_sprint cross-over day_", where we hold a retrospective and a refinement/sprint-planning session. This takes up most of the day on a Tuesday every two weeks, but helps us to share our progress on strategic topics, and any operational concerns.
 
 ### Thursday
 
@@ -58,7 +65,7 @@ If I'm spending time with someone, then I want to focus on them! Pinging me on S
 
 Now, if a meeting is a general all-hands demo, and what we're discussing isn't involving me, I do occasionally refer to my phone, to archive mail, or clear out Slack notifications, but if I'm doing this, trust me when I also tell you that I'm asking myself why I was even invited in the first place, and making mental notes to excuse myself from future sessions.
 
-It's even worse (for me) if it's a once-off meeting that's run without an agenda, or without goals in the invite. Please, if you're going to host a session, let others know what to expect. I can "roll with the punches" most of the time, but not everyone is like me, thankfully, I might add... Adding an agenda, a goal, or a longer explanation than "Project X" is just a common courtesy!
+It's even worse (for me) if it's a once-off meeting that's run without an agenda, or without goals in the invite. Please, if you're going to host a session, let others know what to expect. I can "roll with the punches" most of the time, but not everyone is like me, thankfully, I might add... Adding an agenda, a goal, or a longer explanation than just "Project X" is just a common courtesy!
 
 <!-- markdownlint-disable MD026 -->
 
