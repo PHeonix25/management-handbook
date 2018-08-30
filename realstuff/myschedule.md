@@ -64,9 +64,9 @@ It's even worse (for me) if it's a once-off meeting that's run without an agenda
 <!-- markdownlint-enable MD026 -->
 I've outlined above WHAT my schedule looks like, but not WHY!
 
-For people in development roles (i.e.: most of the people that report to me) my calendar looks like an absolute nightmare, and I don't want to be a wanker and just say "_this is what my job looks like now_", but to a degree, it is. 
+For people in development roles (i.e.: most of the people that report to me) my calendar looks like an absolute nightmare, and I don't want to be a wanker and just say "_this is what my job looks like now_", but to a degree, it is.
 
-If I don't schedule syncs well in advance, and expect others to respect them, then we just won't have them. If I don't block out the time that I'm presenting to a group, others will "need" me during that time. 
+If I don't schedule syncs well in advance, and expect others to respect them, then we just won't have them. If I don't block out the time that I'm presenting to a group, others will "need" me during that time.
 
 Fortunately (or unfortunately), I am yet to work on any sort of management team where "my days are free" and "I get driven by the winds at work". Scheduling, and making sure I allocate time for myself is crucial in terms of organisation and facilitation for me.
 

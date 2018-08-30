@@ -15,7 +15,7 @@
   * [What I do](realstuff/whatido.md)
   * [What I expect](realstuff/whatiexpect.md)
   * [What we do together](#top)
-  * [My schedule](#top)
+  * [My schedule](realstuff/myschedule.md)
 
 * [Templates](#top)
   * [Getting to know you](templates/gettingtoknowyou.md)
