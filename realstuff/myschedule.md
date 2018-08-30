@@ -13,7 +13,7 @@ I try to leave the ends of my days free (from 5pm onward), as it gives me a mome
 ## So, let's break it down
 
 For the purposes of this article, I've color coded what a typical week looks like for me:
-![Time Management](timemanagement.png)
+![Time Management](TimeManagement.png)
 > Yellow is time set aside for working with my peers or working on team projects.\
 > Blue is "me time"; I've chosen what goes in those slots, and it's sometimes strategic, sometimes operational.\
 > Red is an appraisal of someone reporting to me, right there in the middle on Wednesday.\
