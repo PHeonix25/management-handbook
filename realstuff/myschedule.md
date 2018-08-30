@@ -4,7 +4,7 @@ About half of my time at the moment (maybe more :thinkingface:) is spent on "ope
 
 Generally speaking, my day starts with an alarm at 7:30 (I'm **not** a morning person), and by 8 I'm helping the family get ready for school or the days events. I love a good sleep-in, but unfortunately I only get the opportunity about once a month.
 
-By 8:30 I walk my children to school and from there I walk/ride into the office in time for the "Tech Management Time" session shown below at 9. From there, as I mentioned in the [what I do](whatido.md) section, it's normally gogogo until lunch and then gogogo until I need to leave to head home.
+By 8:30 I walk my children to school and from there I walk/ride into the office in time for the "Tech Management Time" session shown below at 9. From there, as I mentioned in the [what I do](whatido.md) section, it's normally gogogo until lunch, breathe, and then gogogo until I need to leave to head home.
 
 As I said before, I'm generally not a morning person, and it takes me until about 10 or 10:30 before I feel awake and running. You'll notice that all but one of my syncs (due to the preferences of the other person), and most of my important meetings (like appraisals/syncs) are scheduled in the afternoons. This is my preference, but if we end up working together and you like to start at 4am and finish at lunch, I'm sure we can work something out... :)
 
@@ -14,7 +14,7 @@ I try to leave the ends of my days free (from 5pm onward), as it gives me a mome
 
 For the purposes of this article, I've color coded what a typical week looks like for me:
 <!-- markdownlint-disable MD033 -->
-<img id="timemanagement" src="TimeManagement.png" alt="Calendar Snapshot" />
+<img class="timemanagement" src="TimeManagement.png" alt="Calendar Snapshot" />
 <!-- markdownlint-enable MD033 -->
 
 * `Yellow` is time set aside for working with my peers or working on team projects.
