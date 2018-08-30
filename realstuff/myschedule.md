@@ -14,7 +14,7 @@ I try to leave the ends of my days free (from 5pm onward), as it gives me a mome
 
 For the purposes of this article, I've color coded what a typical week looks like for me:
 <!-- markdownlint-disable MD033 -->
-<img src="TimeManagement.png" alt="Calendar Snapshot" style="max-width:100%; max-height:auto" />
+<img id="timemanagement" src="TimeManagement.png" alt="Calendar Snapshot" />
 <!-- markdownlint-enable MD033 -->
 
 * `Yellow` is time set aside for working with my peers or working on team projects.
