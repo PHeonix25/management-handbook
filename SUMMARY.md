@@ -19,7 +19,7 @@
 
 * [Templates](#top)
   * [Getting to know you](templates/gettingtoknowyou.md)
-  * [Regular syncs & 1:1's](templates/regularsyncsand1-1s.md)
+  * [Regular syncs & 1:1's](templates/regular-syncs-and-1-1s.md)
   * [Reviews & Appraisals](#top)
 
 ## Acknowledgements
