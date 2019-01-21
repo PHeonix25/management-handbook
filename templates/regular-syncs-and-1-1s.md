@@ -22,6 +22,8 @@ I don't know if you know about Rands, but if you're in management, or you're lea
 
 One of the best write-ups I could find when I was writing this section, that aligned best with me, and what I'm aiming to get out of our syncs is an article he wrote called "[The Update, The Vent, and The Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/). Please go and give it a read now, I'll wait.
 
+**...**
+
 Now Rands puts it a lot better than I could, but I'll try and summarise these three types of syncs in my words below:
 
 ### 1. The Update
